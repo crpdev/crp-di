@@ -1,7 +1,7 @@
 # crp-di
 Dependency Injection Concepts
 
-April 19, 2020
+`April 19, 2020`
 
 # Three ways to inject dependencies
 
@@ -23,5 +23,5 @@ April 19, 2020
 - Custom profiles can be marked in the implementations using the Profile annotation
 - This ensures the implementation matching the profile defined in "application.properties/ yaml" is injected at runtime.
 
-                            Happy Learning!
-                      Last Updated: April 21, 2020
+                                                                    Happy Learning!
+                                                              Last Updated: April 21, 2020
